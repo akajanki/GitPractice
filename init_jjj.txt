@@ -11,3 +11,5 @@ jjj many many works
 add aka3
 work with jjj
 issue1 issue2 jjj
+
+지금 jjj는 gitwithoutcommit에서 작업중입니다. (aka)
