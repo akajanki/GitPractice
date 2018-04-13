@@ -13,3 +13,4 @@ work with jjj
 issue1 issue2 jjj
 
 지금 jjj는 gitwithoutcommit에서 작업중입니다. (aka)
+jjj는 이작업을 먼저 끝냈다
