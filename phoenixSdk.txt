@@ -1,3 +1,6 @@
 issue1 jjj
 phoenix sdk jjj
 complete issue1 jjj
+
+pull with out 중간 commit
+작업수정다했따
